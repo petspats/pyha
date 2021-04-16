@@ -9,6 +9,6 @@ twine==1.12.1
 sphinx-autobuild==0.7.1
 snakeviz==1.0.0
 asv==0.3
-nbdime==1.0.2
+nbdime==3.0.0
 nbval==0.9.1
 pytest==3.8.1
