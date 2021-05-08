@@ -5,5 +5,5 @@ parse==1.8.4
 six==1.11.0
 tqdm==4.25.0
 scikit-image==0.14.0
-matplotlib==3.0.0
+matplotlib==3.4.2
 wurlitzer==1.0.2
